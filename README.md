@@ -11,4 +11,4 @@ Discord Developer Portal.
 
 - Once everything is configured, customized, you are free to do whatever you want, even consume an API if necessary. Use your creativity!
 
-- Para subir a aplicação localmente, use ``npm start``.
+- To make your application online in a local environment, use ``npm start``.
