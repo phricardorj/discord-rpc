@@ -4,8 +4,7 @@ little about the world of DiscodJS and introduce them to Discord Developer. The 
 introduce the npm package manager and definitely make this RPC work with your Discord accounts!
 
 ## How to use?
-To work this RPC, you will first need to run an ``npm i`` and then create an ``.env`` with your ``CLIENT_ID="YOUR_CLIENT_ID_HERE"``, which you can get from the 
+- To work this RPC, you will first need to run an ``npm i`` and then create an ``.env`` with your ``CLIENT_ID="YOUR_CLIENT_ID_HERE"``, which you can get from the 
 Discord Developer Portal.
 
-### Tip
-The configuration of RPC images is basically done in the Discord Developer Portal.
+- The configuration of RPC images is basically done in the Discord Developer Portal.
