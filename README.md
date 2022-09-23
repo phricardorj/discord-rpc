@@ -8,3 +8,7 @@ introduce the npm package manager and definitely make this RPC work with your Di
 Discord Developer Portal.
 
 - The configuration of RPC images is basically done in the Discord Developer Portal.
+
+- Once everything is configured, customized, you are free to do whatever you want, even consume an API if necessary. Use your creativity!
+
+- Para subir a aplicação localmente, use ``npm start``.
