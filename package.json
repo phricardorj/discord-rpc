@@ -1,0 +1,16 @@
+{
+    "name": "discord_presence_rich",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Pedro Ricardo @phricardorj",
+    "license": "MIT",
+    "dependencies": {
+        "discord-rpc": "^4.0.1",
+        "dotenv": "^16.0.2"
+    }
+}
